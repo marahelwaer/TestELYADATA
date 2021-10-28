@@ -5,8 +5,8 @@ app=FastAPI()
 from pprint import pprint as pp
 
 # Enter your Facebook email and password
-email = 'elwaermarah@gmail.com'
-password = '211197991mA'
+email = ''
+password = ''
 fps = Fps(email, password, post_url_text='Full Story')
 # Instantiate an object
 
